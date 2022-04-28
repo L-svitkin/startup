@@ -1,0 +1,33 @@
+@media (max-width:575px){
+.menu{
+position: static;
+}
+
+.menu a {
+width: 100%;
+padding: 20px 0;
+}
+
+.header{
+margin-top: 0;
+padding: 100px 10px;
+background-size: cover;
+background-position: center center;
+min-height: 300px;
+}
+
+.member {
+min-width: 80%;
+}
+
+.tariff{
+min-width: 90%;
+}
+
+#contact input{
+padding: 12px 8px;
+margin: 3px 0;
+}
+
+}
+
